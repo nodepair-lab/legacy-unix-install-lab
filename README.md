@@ -11,8 +11,8 @@ A hands-on lab documenting the installation of **SCO OpenServer 5.0.7** on an ol
 | IP connectivity (ping) | ❌ Not solved. ARP works, but ICMP echo gets no reply. |
 
 <p align="center">
-  <img src="images/no-root-disk.png" alt="Installer: No root disk has been detected. SATA SSD not detected, IDE HDD detected." width="48%">
-  <img src="images/arp-vs-ping.png" alt="ARP resolves the peer MAC at layer 2, but ICMP echo gets no reply at layer 3." width="48%">
+  <img src="images/installer-boot-log.webp" alt="Installer: No root disk has been detected. SATA SSD not detected, IDE HDD detected." width="48%">
+  <img src="images/network-debug.webp" alt="ARP resolves the peer MAC at layer 2, but ICMP echo gets no reply at layer 3." width="48%">
 </p>
 
 ## Goal
