@@ -1,5 +1,5 @@
 <div dir="rtl">
-
+ 
 # نصب SCO OpenServer 5.0.7 روی سخت‌افزار قدیمی
 
 > 🇬🇧 [English version](README.md)
