@@ -88,4 +88,3 @@ Done together by:
 ## License
 
 This write-up is licensed under [CC BY 4.0](LICENSE). You may share and adapt it, with credit to the authors above.
-
