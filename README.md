@@ -1,5 +1,5 @@
 # Installing SCO OpenServer 5.0.7 on Legacy Hardware
-
+ 
 > 🇮🇷 [نسخه فارسی](README.fa.md)
 
 A hands-on lab documenting the installation of **SCO OpenServer 5.0.7** on an old desktop PC, the problems met along the way, and one problem that is still open: IP connectivity.
