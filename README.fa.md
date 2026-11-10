@@ -13,8 +13,8 @@
 | ارتباط IP (ping) | ❌ حل نشد. ARP کار می‌کند ولی ICMP echo جواب نمی‌گیرد. |
 
 <p align="center">
-  <img src="images/no-root-disk.png" alt="نصب‌کننده: No root disk has been detected. SSD از نوع SATA شناسایی نشد، هارد IDE شناسایی شد." width="48%">
-  <img src="images/arp-vs-ping.png" alt="ARP در لایه ۲ آدرس MAC را پیدا می‌کند ولی ICMP echo در لایه ۳ جواب نمی‌گیرد." width="48%">
+  <img src="images/installer-boot-log.webp" alt="نصب‌کننده: No root disk has been detected. SSD از نوع SATA شناسایی نشد، هارد IDE شناسایی شد." width="48%">
+  <img src="images/network-debug.webp" alt="ARP در لایه ۲ آدرس MAC را پیدا می‌کند ولی ICMP echo در لایه ۳ جواب نمی‌گیرد." width="48%">
 </p>
 
 ## هدف
